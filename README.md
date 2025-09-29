@@ -1,5 +1,22 @@
 # React from scratch Course
 
+## 📖 About Dev Pups
+
+Dev Pups is a modern React application that showcases an interactive puppy gallery. Built entirely from scratch without relying on frameworks like Create React App or Next.js, this project demonstrates how to build a complete React application using modern tooling and best practices.
+
+### ✨ Features
+
+The application features a clean, responsive interface where users can:
+
+- **Browse** a collection of adorable puppies with names and personality descriptions ("vibes")
+- **Search** through puppies by their personality traits
+- **Like/Unlike** puppies and maintain a shortlist of favorites
+- **Add New Puppies** to the collection through an intuitive form
+
+This project serves as an excellent example of building a React application from scratch using modern tooling, demonstrating proper TypeScript usage, component composition, and responsive design principles.
+
+---
+
 ### Dev Pups App Previw:
 <img width="1589" height="1156" alt="Screenshot 2025-09-28 at 11 06 31 PM" src="https://github.com/user-attachments/assets/26c6ee39-8ab2-425c-aaf7-50a679f0e0ea" />
 
